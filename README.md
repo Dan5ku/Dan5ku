@@ -3,7 +3,7 @@
 <h3 align="left">💫 About me:</h3>
 
 <p align="left">My name is Daniel Virtanen and I am a software engineering student from Tampere University of Applied Sciences.</p>
-<p align="left">Im starting currently doing an internship for insta andvance.</p>
+<p align="left">Im currently doing an internship for insta andvance.</p>
 
 <h2 align="left">🌐 Connect with me:</h2>
 
