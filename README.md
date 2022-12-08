@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Daniel Virtanen</h1>
 <h3 align="center">Software engineering student from Tampere University of Applied Sciences</h3>
 
+<h2 align="left"> 💫About me:</h2>
+
+<p align=left>Im 25 year old student ICT student from Tamk.</p>
+<p align=left>Currently I am working at Nekalan K-Rauta as salesman</p>
+<p align=left>In 2023 I will be starting internship at Insta advance as SW Developer trainee</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dan5ku&label=Profile%20views&color=0e75b6&style=plastic" alt="dan5ku" /> </p>
 
 <h3 align="left">Connect with me:</h3>
