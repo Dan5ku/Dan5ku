@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I like dogs but I also love cats**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dan5ku&show_icons=true&theme=dark&locale=en&layout=compact" alt="dan5ku" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dan5ku&show_icons=true&theme=dark&locale=en&layout=compact" alt="dan5ku" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dan5ku&show_icons=true&theme=dark&locale=en" alt="dan5ku" /></p>
 
