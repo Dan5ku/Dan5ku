@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dan5ku&label=Profile%20views&color=0e75b6&style=flat" alt="dan5ku" /> </p>
-<h1 align="center">Hi 👋, I'm Daniel Virtanen</h1>
-<h3 align="center">Software engineering student from Tampere University of Applied Sciences</h3>
+<h1 align="left">Hi 👋, I'm Daniel Virtanen</h1>
+<h3 align="left">Software engineering student from Tampere University of Applied Sciences</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dan5ku](https://github.com/Dan5ku)
 
