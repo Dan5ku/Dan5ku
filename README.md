@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dan5ku&label=Profile%20views&color=0e75b6&style=flat" alt="dan5ku" /> </p>
 
-<h1 align="left">👋 Welcome</h1>
+<h1 align="left">👋 Welcome to my GitHub</h1>
 
 <h2 align="left">About me:</h2>
 
