@@ -2,13 +2,9 @@
 
 <h3 align="left">💫 About me:</h3>
 
-<h3 align="left">My name is Daniel Virtanen and I am a software engineering student from Tampere University of Applied Sciences</h3>
-
-- 👨‍💻 All of my projects are available at [https://github.com/Dan5ku](https://github.com/Dan5ku)
+<p align="left">My name is Daniel Virtanen and I am a software engineering student from Tampere University of Applied Sciences</p>
 
 - 📫 How to reach me **dvirtanen97@gmail.com**
-
-- ⚡ Fun fact **I like dogs but I also love cats**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dan5ku&show_icons=true&theme=dark&locale=en&layout=compact" alt="dan5ku" /></p>
 
