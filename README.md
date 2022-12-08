@@ -1,6 +1,6 @@
-<h1 align="center">👋 Welcome to my GitHub</h1>
+<h1 align="center">👋 Welcome to my GitHub 👋</h1>
 
-<h3 align="left">💫 About me:</h3>
+<h1 align="left">💫 About me:</h1>
 
 <p align="left">My name is Daniel Virtanen and I am a software engineering student from Tampere University of Applied Sciences</p>
 
