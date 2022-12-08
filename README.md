@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dan5ku&label=Profile%20views&color=0e75b6&style=flat" alt="dan5ku" /> </p>
-
 <h1 align="left">👋 Welcome to my GitHub</h1>
 
 <h2 align="left">About me:</h2>
@@ -26,3 +24,5 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/daniel-virtanen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/daniel-virtanen/" height="30" width="40" /></a>
 <a href="https://instagram.com/@danielrikugabriel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@danielrikugabriel" height="30" width="40" /></a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dan5ku&label=Profile%20views&color=0e75b6&style=flat" alt="dan5ku" /> </p>
