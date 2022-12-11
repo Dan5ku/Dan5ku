@@ -3,7 +3,7 @@
 
 <h2 align="left">💫 About me:</h2>
 
-<p align=left>Im 25 year old student ICT student from Tamk.</p>
+<p align=left>Im 25 year old ICT student from Tamk.</p>
 <p align=left>Currently I am working at Nekalan K-Rauta as salesman.</p>
 <p align=left>In 2023 I will be starting internship at Insta advance as SW Developer trainee.</p>
 <h2 align="left">🌐Connect with me:</h2>
