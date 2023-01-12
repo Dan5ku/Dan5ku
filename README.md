@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel Virtanen</h1>
+<h1 align="center">Hi 👋 I'm Daniel Virtanen</h1>
 <h3 align="center">Software engineering student from Tampere University of Applied Sciences</h3>
 
 <h2 align="left">💫 About me:</h2>
