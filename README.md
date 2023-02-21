@@ -17,4 +17,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dan5ku&icon=3&color=12)](https://visitcount.itsvg.in)
+<p align="center"[![](https://visitcount.itsvg.in/api?id=dan5ku&icon=3&color=12)](https://visitcount.itsvg.in)</p>
