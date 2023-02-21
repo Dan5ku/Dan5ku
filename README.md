@@ -1,4 +1,3 @@
-<div align="center">
 <h1 align="center">Hi 👋 I'm Daniel Virtanen</h1>
 <h3 align="center">Software engineering student from Tampere University of Applied Sciences</h3>
 
@@ -22,9 +21,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=dan5ku&icon=3&color=12)](https://visitcount.itsvg.in)
-</div>
