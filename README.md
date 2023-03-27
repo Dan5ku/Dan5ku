@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋 I'm Daniel Virtanen</h1>
 <p align="center">Software engineering student from Tampere University of Applied Sciences</p>
-<p align="center">Currently working at Nekalan K-Rauta as salesman.</p>
 <p align="center">In 2023 I will be starting internship at Insta advance as SW Developer trainee.</p>
 
 ## 🌐 Socials:
