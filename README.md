@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Daniel Virtanen</h1>
-<p align="center">Software engineering student from Tampere University of Applied Sciences</p>
-<p align="center">In 2023 I will be starting internship at Insta advance as SW Developer trainee.</p>
+<p align="center">Bachelor of Engineering in Information Technology, Software development</p>
+<p align="center">Graduated from Tampere University of Applied Sciences in the summer of 2024</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/danielrikugabriel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Daniel-Virtanen) 
